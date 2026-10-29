@@ -1,0 +1,6 @@
+{
+  "version": "0.5.1",
+  "download_url": "https://github.com/Docswelam/SweskTop-Src/actions/workflows/windows-build.yml",
+  "release_notes": "SweskTop 0.5.1 test build: serialized current settings snapshots, retained wallpaper desktop selection, event-driven widget pin revalidation and safer desktop layering, lazy bounded wallpaper previews, saved image placement choices and collapsible widget settings. Download only from a successful Windows workflow. Native recovery and memory improvement require Windows acceptance and a new measurement session.",
+  "sha256": null
+}
